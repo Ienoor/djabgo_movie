@@ -30,7 +30,7 @@ class Actor(models.Model):
 
     class Meta:
         verbose_name = "Актеры и Режисёры"
-        verbose_name_plural = "Актеры и Режисёрыя"
+        verbose_name_plural = "Актеры и Режисёры"
 
 
 class Gerne(models.Model):
